@@ -1,11 +1,11 @@
 openapi: 3.1.0
 info:
   version: 1.0.0
-  title: Example API
+  title: API First Spring Boot
   termsOfService: https://example.com/terms/
   contact:
-    name: Contact our support
-    email: contact@example.com
+    name: Facundo Nahuel Rico
+    email: facundorico@gmail.com
     url: http://example.com/contact
   license:
     name: Apache 2.0
